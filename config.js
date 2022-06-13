@@ -19,7 +19,7 @@ global.APIs = {
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
     //gausah di apa² in, beli sendiri key ya :)
-    'https://zenzapis.xyz': 'GuaAbuzz17',
+    'https://zenzapis.xyz': 'YOUR_APIKEY',
 }
 
 //—————「 Set Nama Bot & Own & Agama 」—————//
