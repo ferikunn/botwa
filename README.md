@@ -42,7 +42,7 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 [![ZENZ](https://img.shields.io/badge/zhwzein-1b1e23?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhwzein/Killua-Zoldyck)
 
 ## Heroku Buildpack
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abuzzpoet/Akame)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ferikunn/botwa)
 
 [![FFMPEG](https://img.shields.io/badge/BuildPack%20FFMPEG-1b1e23?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
 
